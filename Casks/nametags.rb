@@ -32,8 +32,9 @@ cask "nametags" do
   ]
 
   caveats <<~EOS
-    Open Nametags once and allow its camera in
+    Open Nametags and follow its setup steps. It installs its camera and
+    asks you to approve it in
       System Settings → General → Login Items & Extensions
-    then choose "Nametags" as the camera in your meeting app.
+    Then choose "Nametags" as the camera in your meeting app.
   EOS
 end
