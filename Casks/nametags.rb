@@ -1,6 +1,6 @@
 cask "nametags" do
-  version "0.4.11"
-  sha256 "bbd162a8c5fe2c21370f7822ff554d90239aafd6683b5ec00d15bd01a48e128f"
+  version "0.4.12"
+  sha256 "6f9155b4c89a712af726871c120549250e9b080487cff1256e823bbeb4f1d2e4"
 
   url "https://api.nametags.site/desktop/install/#{version}/mac"
   name "Nametags"
